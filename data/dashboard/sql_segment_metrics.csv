@@ -1,0 +1,11 @@
+version,gameround_segment,users,avg_gamerounds,retention_1_rate,retention_7_rate
+gate_30,0 rounds,1937,0.0,2.12,0.83
+gate_30,1-10 rounds,15736,4.51,12.48,1.93
+gate_30,11-50 rounds,15891,25.52,53.09,12.03
+gate_30,51-100 rounds,5041,71.16,81.23,38.09
+gate_30,100+ rounds,6095,247.68,90.21,71.39
+gate_40,0 rounds,2057,0.0,2.24,0.63
+gate_40,1-10 rounds,16259,4.47,12.49,1.94
+gate_40,11-50 rounds,15497,24.8,52.31,10.81
+gate_40,51-100 rounds,5386,71.13,79.63,33.31
+gate_40,100+ rounds,6290,237.42,89.78,71.24

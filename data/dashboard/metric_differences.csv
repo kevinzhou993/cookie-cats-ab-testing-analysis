@@ -1,0 +1,5 @@
+metric,gate_30,gate_40,absolute_diff_gate40_minus_gate30,relative_diff_pct
+avg_gamerounds,52.4563,51.2988,-1.1575,-2.21
+median_gamerounds,17.0,16.0,-1.0,-5.88
+retention_1_rate,0.4482,0.4423,-0.0059,-1.32
+retention_7_rate,0.1902,0.182,-0.0082,-4.31

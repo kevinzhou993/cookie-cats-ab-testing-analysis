@@ -1,0 +1,2 @@
+metric,test,gate_30_mean,gate_40_mean,gate_30_median,gate_40_median,u_statistic,p_value,significant_at_0_05
+sum_gamerounds,Mann-Whitney U,52.46,51.3,17.0,16.0,1024331250.5,0.05021,False
