@@ -172,13 +172,12 @@ A Power BI dashboard was created to communicate the main A/B testing results, in
 * Day 7 retention by version
 * Average game rounds by version
 * Segment-level Day 7 retention
-* Statistical testing summary
+* Product recommendation summary
 
-Dashboard screenshot will be added here:
+The Power BI dashboard file is available in the `dashboard/` folder.
 
-```markdown
 ![Cookie Cats A/B Test Dashboard](visuals/powerbi_dashboard.png)
-```
+
 
 ---
 
@@ -231,6 +230,10 @@ mobile-game-retention-ab-test/
 ├── visuals/
 │   └── powerbi_dashboard.png
 │
+├── dashboard/
+│   └── cookie_cats_ab_test_dashboard.pbix
+│
+├── requirements.txt
 └── README.md
 ```
 
